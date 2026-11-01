@@ -1,0 +1,1 @@
+# Otomatik-Veri-ekici
