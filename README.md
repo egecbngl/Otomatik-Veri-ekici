@@ -1,1 +1,1 @@
-# Otomatik-Veri-ekici
+# Otomatik-Veri-Cekici
